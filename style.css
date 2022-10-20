@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+}
+
+body{
+    background-color: #343030;
+}
+
+.signup {
+    background: linear-gradient(180deg, #FFFFFF 6.01%, rgba(255, 112, 98, 0.91) 137.98%);
+    text-align: center;
+    width: 660px;
+    height: 700px;
+}
+
+.signup input {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    width: 460px;
+    height: 60px;
+    margin-bottom: 35px;
+    outline: none;
+    border: none;
+}
+
+.signup p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    margin-bottom: -2px;
+
+}
+
+.signup i {
+    font-size: 40px;
+}
+
+.signup h1 {
+    margin-top: 50px;
+}
+
+.btn {
+    background: rgba(244, 94, 79, 0.96);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    width: 461px;
+    height: 62px;
+    font-size: 24px;
+    margin-top: 100px;
+}
+
+.div2{
+    position: absolute;
+    background: url(unnamed1.png);
+    width: 675px;
+    height: 750px;
+}
+
+.div2 p {
+    position: absolute;
+    width: 560px;
+    height: 42px;
+    left: 100px;
+    top: 250px;
+    
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 42px;
+    color: #000000;
+
+
+}
+.div2 img{
+    position: absolute;
+    width: 463px;
+    height: 302px;
+    left: 100px;
+    top: 400px;
+    
+    background: url(images__5_-removebg-preview.png);
+}
